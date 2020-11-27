@@ -7,6 +7,39 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+- type: subscribe1
+  options:
+    url: https://jiang.netlify.app
+- type: subscribe2
+  options:
+    url: https://git.io/autossr_online
+- type: subscribe3
+  options:
+    url: https://git.io/autossr_stable
+- type: subscribe4
+  options:
+    url: https://git.io/autossr_recent
+- type: subscribe5
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
+- type: subscribe6
+  options:
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+- type: subscribe7
+  options:
+    url: https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Day.txt
+- type: subscribe8
+  options:
+    url: https://raw.githubusercontent.com/satrom/V2SSR/master/V2RAY/Sub.txt
+- type: subscribe9
+  options:
+    url: https://raw.githubusercontent.com/satrom/V2SSR/master/SSR/Sub.txt
+- type: subscribe10
+  options:
+    url: https://raw.githubusercontent.com/satrom/V2SSR/master/ss/Sub.txt
+- type: subscribe11
+  options:
+    url: https://raw.githubusercontent.com/RaymondHarris971/ssrsub/master/9a075bdee5.txt
 
 # 网页模糊抓取
 - type: webfuzz
@@ -31,4 +64,4 @@
 # 某个网站抓取
 - type: web-freessrxyz
   options:
-    url: https://jiang.netlify.app
+
