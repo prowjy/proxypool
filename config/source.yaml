@@ -18,6 +18,10 @@
   options:
     channel: ssrList
     num: 200
+- type: tgchannel2
+  options:
+    channel: v2List
+    num: 200
 
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
@@ -27,3 +31,4 @@
 # 某个网站抓取
 - type: web-freessrxyz
   options:
+    url: https://jiang.netlify.app
