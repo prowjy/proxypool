@@ -1,6 +1,6 @@
 # your domain
-domain: j18y.ga
-port:443                 # default 12580
+domain: zdtg.herokuapp.com
+port:                 # default 12580
 
 # source list file
 source-files:
