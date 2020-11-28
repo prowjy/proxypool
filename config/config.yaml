@@ -1,6 +1,6 @@
 # your domain
 domain: j18y.ga
-port:                 # default 12580
+port:443                 # default 12580
 
 # source list file
 source-files:
